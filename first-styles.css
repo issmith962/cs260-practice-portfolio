@@ -1,0 +1,25 @@
+p {
+  width: max-content; 
+}
+ol {
+  width: max-content;
+}
+ul {
+  width: max-content;
+}
+h2 {
+  width: max-content;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  width: max-content; 
+  margin: 20px auto; 
+}
+.list-el {
+  color: blue; 
+  font-style: italic; 
+}
+#title {
+  border: 2px solid darkgrey;
+}
